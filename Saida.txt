@@ -1,0 +1,3 @@
+Numero de Homens: 25
+Numero de Mulheres: 25
+A idade da pessoa mais velha: 55
